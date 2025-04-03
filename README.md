@@ -1,4 +1,4 @@
 # dicoding-js-input-event
 Dicoding: Javascript - Input Event
 
-https://musshal.github.io/dicoding-js-input-event/
+https://faishaldev.github.io/dicoding-js-input-event/
